@@ -1,5 +1,5 @@
 
-![MasterHead](https://drive.google.com/file/d/1joOsSCcZY3SXOI8VIqGRId8PBnOJ4DWH/view?usp=sharing)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEZfBhjhHcJvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732555577898?e=1738195200&v=beta&t=AXYICDtR4XzL8iJa0jr3PydUdto94dJXF2LB_0_GWZg)
 
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">Embedded Software & Machine Learning</h3>
